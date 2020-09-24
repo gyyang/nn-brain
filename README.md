@@ -1,8 +1,12 @@
 # nn-brain
 
-**Status:** In Development.
+**Status:** In Maintenance.
 
-Code for [Artificial neural networks for neuroscientists: A Primer](https://arxiv.org/abs/2006.01001).
+Code for 
+[Artificial neural networks for neuroscientists: A Primer](https://www.cell.com/neuron/fulltext/S0896-6273(20)30705-4)
+
+[Older Arxiv version](https://arxiv.org/abs/2006.01001) (A new version comming
+ soon)
 
 This repository provides tutorial-style code for training artificial neural networks on
 simple neuroscience-relevant tasks, and for analyzing these networks using
@@ -32,4 +36,5 @@ let me know if it does not work for you.
 All code can be run quickly (a few minutes) on a laptop CPU.
 
 
-Please email me at gyyang.neuro@gmail.com or send issues/pull requests, if you are interested in contributing.
+Please email me at gyyang.neuro@gmail.com or send issues/pull requests, if
+ you have any feedback. Thank you!
