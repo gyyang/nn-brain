@@ -5,8 +5,7 @@
 Code for 
 [Artificial neural networks for neuroscientists: A Primer](https://www.cell.com/neuron/fulltext/S0896-6273(20)30705-4)
 
-[Older Arxiv version](https://arxiv.org/abs/2006.01001) (A new version comming
- soon)
+[Arxiv version](https://arxiv.org/abs/2006.01001)
 
 This repository provides tutorial-style code for training artificial neural networks on
 simple neuroscience-relevant tasks, and for analyzing these networks using
